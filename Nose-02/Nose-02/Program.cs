@@ -33,6 +33,8 @@ namespace Nose_02
                 Console.ReadLine();
                 rng++;//efter varje gång adderas +1 till inten och då läser stringen en ny plats på arrayen.
             }
+
+            List<string> cities = new List<string>();
         }
     }
 }
